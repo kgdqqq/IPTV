@@ -1,0 +1,156 @@
+#EXTINF:-1, CCTV-1综合
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1, CCTV-2财经
+http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1, CCTV-3综艺
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1, CCTV-4中文国际
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1, CCTV-5+高清
+http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1, CCTV-6电影
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1, CCTV-7国防军事
+http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1, CCTV-8电视剧
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1, CCTV-9纪录
+http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1, CCTV-10科教
+http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1, CCTV-11戏曲
+http://ivi.bupt.edu.cn/hls/cctv11hd.m3u8
+#EXTINF:-1, CCTV-12社会与法
+http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1, CCTV-13新闻
+http://ivi.bupt.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1, CCTV-14少儿
+http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1, CCTV-15音乐
+http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+#EXTINF:-1, CCTV-17农业农村
+http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1, 北京卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226224/index.m3u8
+#EXTINF:-1, 安徽卫视
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226223/index.m3u8
+#EXTINF:-1, 咪咕视频
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226373/index.m3u8
+#EXTINF:-1, 北京 4K超清
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/index.m3u8
+#EXTINF:-1, cctv5+ 体育赛事
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/index.m3u8
+#EXTINF:-1, 萌宠
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/index.m3u8
+#EXTINF:-1, newtv 武博世界
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226320/index.m3u8
+#EXTINF:-1, newtv 爱情戏剧
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226322/index.m3u8
+#EXTINF:-1, newtv 中国功夫
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/index.m3u8
+#EXTINF:-1, newtv 古装剧场
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226323/index.m3u8
+#EXTINF:-1, newtv 军旅剧场
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226324/index.m3u8
+#EXTINF:-1, newtv 精品体育
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226328/index.m3u8
+#EXTINF:-1, newtv 惊悚悬疑
+htt://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1, 
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1, CCTV-10蓝光
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1, 
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1, "NewTV 东北热剧"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1, "NewTV 中国功夫"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1, "NewTV 军事评论"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1, "NewTV 军旅剧场",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1, NewTV 农业致富",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1, NewTV 动画王国",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1, "NewTV 古装剧场",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1, "NewTV 家庭剧场",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1, NewTV 惊悚悬疑",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1, NewTV 明星大片",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1, NewTV 欢乐剧场,
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1, "NewTV 海外剧场",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1, "NewTV 潮妈辣婆",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1, "NewTV 炫舞未来",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1, "NewTV 精品体育",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1, "NewTV 精品大剧",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1, "NewTV 超级体育",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1, "NewTV 超级电影",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1, NewTV 超级综艺,
+htt://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1, NewTV 金牌综艺,
+htt://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1, "NewTV 搏击",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1, "NewTV 电竞",
+http:///ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1, "NewTV 东北热剧",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1, "NewTV 中国功夫",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1, "NewTV 军事评论",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1, "NewTV 军旅剧场",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1, "NewTV 农业致富",
+http://3ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1, "NewTV 动画王国",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1, "NewTV 古装剧场",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1, "NewTV 家庭剧场",
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1, "NewTV 惊悚悬疑"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1, "NewTV 明星大片"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:-1, "NewTV 欢乐剧场"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1, "NewTV 海外剧场"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1, "NewTV 潮妈辣婆"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1, "NewTV 炫舞未来"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1, "NewTV 精品体育"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1, "NewTV 精品大剧"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1, "NewTV 超级体育"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1, "NewTV 超级电影"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1, "NewTV 超级综艺"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1, "NewTV 金牌综艺"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1, "NewTV 超级电视剧"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1, "贵州7套"
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225741/1/index.m3u8
+#EXTINF:-1, "贵州影视"
+http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225704/1/index.m3u8
+#EXTINF:-1, "哈尔滨新闻"
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
